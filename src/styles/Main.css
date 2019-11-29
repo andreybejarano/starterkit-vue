@@ -1,0 +1,21 @@
+@import './variables.css';
+
+:global {
+  @import '../../node_modules/vuetify/dist/vuetify.css';
+
+  html,
+  body {
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+
+    #app {
+      height: 100%;
+    }
+
+    .container--fluid {
+      height: 100%;
+      padding: 0;
+    }
+  }
+}

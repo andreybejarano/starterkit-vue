@@ -1,0 +1,12 @@
+  /* Colors */
+$qb-bg-primary: rgba(0, 33, 71, 1);
+$qb-primary: rgba(230, 81, 0, 1);
+$qb-primary-hover: rgba(243, 107, 50, 1);
+$qb-secundary: rgba(250, 250, 250, 1);
+$qb-secundary-hover: rgba(38, 111, 242, 1);
+$qb-transparent-25: rgba(0, 47, 101, 0.25);
+$qb-transparent-75: rgba(0, 47, 101, 0.75);
+$qb-white-text: rgba(255, 255, 255, 1);
+$qb-black-text: rgba(0, 10, 17, 1);
+$qb-orange-light: rgba(255, 109, 0, 1);
+$qb-gray-dark: rgba(82, 82, 82, 1);
